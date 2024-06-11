@@ -70,5 +70,5 @@ Para dúvidas ou sugestões, entre em contato através do [LinkedIn](https://www
 ---
 
 Esperamos que você ache esta aplicação útil! 😊
-```
+
 

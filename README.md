@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 📊 Calculadora de IMC
 
 Bem-vindo à aplicação **Calculadora de IMC**! Esta aplicação permite calcular o Índice de Massa Corporal (IMC) de um usuário com base no peso e altura fornecidos.
